@@ -7,7 +7,11 @@ This article describes creating a day view control for visualizing schedule func
 
 Office 12 Theme:
 
+![Office 12 Theme](https://www.codeproject.com/KB/selection/Calendardayview/shot1.jpg)
+
 Office XP Theme
+
+![Office XP Theme](https://www.codeproject.com/KB/selection/Calendardayview/shot2.jpg)
 
 ## Background
 Before writing this control, I was in need of a day view control that just looks like that in Outlook. I have found some commercial toolkits but none of them meets my requirements. Some of those want that all appointments be given before showing the control, some of those are not open source, etc. So I wrote this control in a "hurry development", and I think other people can use it. Pay back time for using the CodeProject :)
